@@ -2,7 +2,7 @@
 
 ## 迁移到Beamer
 
-毕业答辩之后作者开始使用Beamer替代PowerPoint和Keynote，AMaze_Beamer_Theme和本教程的Beamer slide不日发布，参见本项目`amaze_beamer_theme`分支。
+毕业答辩之后作者开始使用Beamer替代PowerPoint和Keynote，AMaze_Beamer_Theme和本教程的Beamer slide不日发布，参见[这个仓库](https://github.com/hilinxinhui/AMaze_Beamer_Theme)。
 
 ## 内容
 
